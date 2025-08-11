@@ -210,7 +210,7 @@ app.listen(PORT, () => {
 - API keys and secrets (if needed) should be managed via environment variables and not committed to the repository.
 
 ## Demo Video
-- [Add your demo video link here]
+- https://www.loom.com/share/be232d37a4054bdc80676560b1028db8?sid=807599e2-af37-4f97-8de5-b7c2d3c612ac
 
 ## License
 MIT
